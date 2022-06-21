@@ -15,3 +15,9 @@ body {
 }
 
 /* your CSS below! */
+
+td {
+  background-color: rgb(209, 209, 209);
+  height: 50px;
+  width: 50px;
+}
